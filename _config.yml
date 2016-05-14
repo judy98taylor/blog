@@ -70,4 +70,4 @@ theme: landscape
 deploy:
   type:
 repository: git@github.com:zd9027/zd9027.github.io.git
-  branch: gh-pages
+branch: gh-pages
