@@ -69,3 +69,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+repository: git@github.com:zd9027/zd9027.github.io.git
+  branch: gh-pages
