@@ -69,6 +69,6 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/zd9027/blog.git
+  repo: https://github.com/zd9027/zd9027.github.io.git
   branch: gh-pages
   message: init
